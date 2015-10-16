@@ -6,6 +6,4 @@ require 'selenium-webdriver'
 require 'nokogiri'
 
 require File.expand_path(File.join(File.dirname(__FILE__), "shared" , "page"))
-
-require File.expand_path(File.join(File.dirname(__FILE__), "home_page", "home_page"))
-require File.expand_path(File.join(File.dirname(__FILE__), "home_page", "special_place"))
+require File.expand_path(File.join(File.dirname(__FILE__), "home_page", "review_page"))

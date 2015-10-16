@@ -9,22 +9,20 @@ class Page
   end
   
   def body
-   Body.new(@selenium) 
+   Body.new(@selenium)
   end
   
   def sidebar
-   Sidebar.new(@selenium) 
+   Sidebar.new(@selenium)
   end
   
   def footer
-   Footer.new(@selenium) 
-  end     
+   Footer.new(@selenium)
+  end
   
   def verify(selenium)
      if URI.parse(selenium.current_url).path != page_path
        raise "Unexpected page. Expected #{page_path} but full path was #{selenium.current_url}"
      end
-  end  
-end       
-
-
+  end
+end
