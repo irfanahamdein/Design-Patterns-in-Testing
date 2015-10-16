@@ -1,0 +1,17 @@
+fixture_1:
+  id: 1
+  name: User1
+  description: Cool place
+  rating: 0.5
+  price: "5.77"
+  url: cool_place
+  image: /wp-content/uploads/cool_place.png
+  
+fixture_2:
+  id: 2
+  name: User2
+  description: mistake
+  rating: 4.5
+  price: "88.79"
+  url: whatamistake
+  image: /wp-content/uploads/wrong.png
