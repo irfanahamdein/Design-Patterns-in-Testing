@@ -1,10 +1,6 @@
 # Design-Patterns-in-Testing
 To Explore and Implement ,design patterns in test automation
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/irfanah/design-patterns-in-testing/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/irfanah/design-patterns-in-testing/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+1.Understand different design patterns in solving testing problems
+2.Pros and Cons for each
+3.Refactor your tests with best practices
